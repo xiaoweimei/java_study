@@ -174,6 +174,7 @@ public String name;
 ```
 ### 访问控制符
 - 类的访问控制符只能是空或者 public，方法和属性的访问控制符有 4 个，分别是 public、 private、protected 和 friendly，其中 friendly 是一种没有定义专门的访问控制符的默认情况。
+
 | 访问范围 | private | friendly(默认) | protected | public |
 | :----: | :----: | :----: | :----: | :----: |
 | 同一个类 | 可访问 | 可访问 | 可访问 | 可访问 |
